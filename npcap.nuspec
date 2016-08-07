@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>npcap</id>
+    <title>Npcap</title>
+    <version>0.08</version>
+    <authors>Nmap</authors>
+    <owners>Yang Luo</owners>
+    <summary>Nmap Project's packet sniffing library for Windows, based on WinPcap/Libpcap improved with NDIS 6 and LWF</summary>
+    <description>Npcap is an update of WinPcap to NDIS 6 Light-Weight Filter (LWF) technique. It supports Windows Vista, 7, 8 and 10. It is sponsored by the Nmap Project and developed by Yang Luo under Google Summer of Code 2013 and 2015. It also received many helpful tests from Wireshark and NetScanTools.</description>
+    <projectUrl>http://www.npcap.org</projectUrl>
+    <tags>driver packetcapture network admin</tags>
+    <licenseUrl>https://github.com/nmap/npcap/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>https://cdn.rawgit.com/hsluoyz/npcap-icons/master/sitelogo.png</iconUrl>
+	<packageSourceUrl>https://github.com/hsluoyz/npcap-package</packageSourceUrl>
+	<docsUrl>https://htmlpreview.github.io/?https://github.com/nmap/npcap/blob/master/docs/npcap-guide-wrapper.html</docsUrl>
+	<mailingListUrl>https://nmap.org/mailman/listinfo/dev</mailingListUrl>
+	<bugTrackerUrl>https://github.com/nmap/nmap/issues/</bugTrackerUrl>
+	<projectSourceUrl>https://github.com/nmap/npcap</projectSourceUrl>
+  </metadata>
+</package>

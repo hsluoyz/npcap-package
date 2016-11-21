@@ -3,7 +3,7 @@
 	<metadata>
 		<id>npcap</id>
 		<title>Npcap</title>
-		<version>0.08</version>
+		<version>0.10-r18</version>
 		<authors>Nmap</authors>
 		<owners>Yang Luo</owners>
 		<summary>Nmap Project's packet sniffing library for Windows, based on WinPcap/Libpcap improved with NDIS 6 and LWF</summary>
@@ -14,7 +14,7 @@ Npcap - Nmap Project's packet sniffing library for Windows, based on WinPcap/Lib
 Npcap is an update of WinPcap to NDIS 6 Light-Weight Filter (LWF) technique. It supports Windows Vista, 7, 8 and 10. It is sponsored by the Nmap Project and developed by Yang Luo under Google Summer of Code 2013 and 2015. It also received many helpful tests from Wireshark and NetScanTools.
 
 ### Install Parameters
-The options are described here: https://htmlpreview.github.io/?https://github.com/nmap/npcap/blob/master/docs/npcap-guide-wrapper.html#npcap-redistribution-options
+The options are described here: https://rawgit.com/nmap/npcap/master/docs/npcap-guide-wrapper.html#npcap-redistribution-options
 		</description>
 		<projectUrl>http://www.npcap.org</projectUrl>
 		<tags>driver packetcapture network admin</tags>

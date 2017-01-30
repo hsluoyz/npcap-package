@@ -3,7 +3,7 @@
 	<metadata>
 		<id>npcap</id>
 		<title>Npcap</title>
-		<version>0.78</version>
+		<version>0.80</version>
 		<authors>Nmap</authors>
 		<owners>Yang Luo</owners>
 		<summary>Nmap Project's packet sniffing library for Windows, based on WinPcap/Libpcap improved with NDIS 6 and LWF</summary>

@@ -1,5 +1,5 @@
 ﻿$name   = 'npcap'
-$url = 'https://nmap.org/npcap/dist/npcap-0.86.exe'
+$url = 'https://nmap.org/npcap/dist/npcap-0.90.exe'
 $silent = '/S'
 
-Install-ChocolateyPackage $name 'exe' $silent $url -checksum 'ab677b9037dc377303e6d68a9b8a8195c8e976efd550a6bb6ce91eed551c5cbe' -checksumType 'sha256'
+Install-ChocolateyPackage $name 'exe' $silent $url -checksum '0477a42a9c54f31a7799fb3ee0537826041730f462abfc066fe36d81c50721a7' -checksumType 'sha256'
